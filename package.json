@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "mocha -- \"tests/**/*.test.ts\"",
-    "test:gcp": "ENV=dev INSTANCE_ID=your-instance-id PROJECT_ID=your-project-id npm run test"
+    "test:gcp": "ENV=dev INSTANCE_ID=questionseen-test PROJECT_ID=lotum-quizplanet npm run test"
   },
   "keywords": [],
   "author": "",
